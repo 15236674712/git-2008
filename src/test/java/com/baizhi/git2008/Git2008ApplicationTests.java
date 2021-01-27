@@ -17,6 +17,7 @@ class Git2008ApplicationTests {
         int b=20;
         System.out.println(a);
         System.out.println(b);
+        String str="lalala";
     }
 
 }
